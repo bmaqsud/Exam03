@@ -232,7 +232,7 @@ Book: Xamsa, Author: Alisher Navoiy
 
 ### 12. Abstract Base Class
 
-**Task:** `Vehicle` abstract classini yarating.
+**Task:** Vehicle`` abstract classini yarating.
 
 **Input:**
 
